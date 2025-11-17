@@ -1,2 +1,14 @@
-.next
+#Nextjs build output
+.next/
+
+#dependecy directiories
 node_modules
+
+#Local development and enviroment files
+
+
+#Editor/ide specific files
+.vscode/
+.idea/
+
+#other files
